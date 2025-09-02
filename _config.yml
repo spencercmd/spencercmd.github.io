@@ -1,0 +1,19 @@
+title: spencercmd
+description: The best way to predict the future is to invent it
+url: "https://spencercmd.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Author info
+author:
+  name: Spencer Livingston
+  email: spencer@spencercmd.com
+
+# Social links (optional)
+github_username: spencercmd
+twitter_username: spencercmd
