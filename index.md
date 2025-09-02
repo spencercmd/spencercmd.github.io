@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to {{ site.title }}
+# spencercmd
 
 {{ site.description }}
 
