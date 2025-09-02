@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Using openpyxl to take user input and write it to an excel sheet"
+date: 2022-01-23 15:00:00 -0000
+---
+
+# {{ page.title }}
+
+**Published:** {{ page.date | date: "%B %d, %Y" }}
+
+
 openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
 
 I recently purchased a road bicycle as a means of getting outside and increasing my cardiovascular stamina. I use the built-in WatchOS Activity app to track my rides and health data but, I wanted a way to get that data into a locally stored excel sheet for data collection and reference as my health improves. Python was the way!
