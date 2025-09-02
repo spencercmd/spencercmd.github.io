@@ -10,16 +10,8 @@ date: 2025-09-02 15:00:00 -0000
 
 ---
 
-Welcome to my corner of the internet! This is where I'll be sharing thoughts on technology, innovation, and the art of building tomorrow.
+ill just be porting over some older posts from different platforms here, sharing new insights etc. 
 
-## The Journey Begins
-
-As Alan Kay once said, *"The best way to predict the future is to invent it."* That philosophy drives everything I do. Whether it's:
-
-- Writing code that solves real problems
-- Exploring emerging technologies
-- Building tools that make developers' lives easier
-- Sharing knowledge with the community
 
 ## What to Expect
 
