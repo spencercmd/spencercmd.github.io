@@ -17,7 +17,6 @@ layout: default
 
 ## About
 
-I'm {{ site.author.name }}, An uber employable catalyst of accelerated technological advancement.
 I'm Spencer.
 - Currently working on devops, security, and AI.
 - You'll mainly find projects im working on, life updates, opinion pieces here.
