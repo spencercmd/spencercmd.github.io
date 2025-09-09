@@ -4,7 +4,6 @@ layout: default
 
 # spencercmd
 
-{{ site.description }}
 
 ## Recent Posts
 
