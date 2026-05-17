@@ -15,6 +15,19 @@ layout: default
   No posts yet! Create your first post in the `_posts` folder.
 {% endif %}
 
+## Featured Projects
+
+{% assign featured = site.data.projects | where: "featured", true %}
+{% if featured.size > 0 %}
+  {% for project in featured %}
+  - **[{{ project.name }}]({{ project.url }})** — {{ project.description }}{% if project.tags %} *({{ project.tags | join: ", " }})*{% endif %}
+  {% endfor %}
+{% endif %}
+
+[View all projects →](/projects/)
+
+---
+
 ## About
 
 I'm Spencer.

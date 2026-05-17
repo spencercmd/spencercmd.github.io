@@ -1,0 +1,15 @@
+# Add your projects here.
+# Fields:
+#   name        - project title (required)
+#   description - one or two sentences (required)
+#   url         - link to repo, demo, or write-up (optional)
+#   tags        - list of technology/topic labels (optional)
+#   status      - "complete" | "in-progress" | "archived" (optional)
+#   featured    - true | false  (featured projects appear on the homepage)
+
+- name: "BorgCompiler"
+  description: "BorgCompiler is a visual playground for PyTorch's compilation pipeline — write a function, see exactly what torch.compile does to it, and measure whether it's actually faster."
+  url: "https://borgcompiler.spencercmd.com/"
+  tags: [python, ai, pytorch, triton, neural-network]
+  status: "complete"
+  featured: true
